@@ -1,7 +1,7 @@
 from character import Character
 
 player1 = Character("Valera", damage=11)
-player2 = Character(name="Petro", health=120, damage=10)
+player2 = Character(name="Petro", health=130, damage=10)
 
 player1.show_info()
 player2.show_info()
